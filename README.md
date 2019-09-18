@@ -20,9 +20,10 @@ This Repository is organized in fordrs corresponding to the topics in the IB CS 
 Usage
 ----------
 to clone this repository use the following command in the terminal
-'''.sh
+```.sh
 git clone https://github.com/comsci-uwc-isak/progress-journal-Khalidismail876.git
-'''
+```
+
 License
 ------------
 The Contents of this Repository are licensed with GPL
