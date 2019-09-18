@@ -1,6 +1,7 @@
 How to create a bash script that automatically creates files and folders
 ==
 
+```.sh
 #!/bin/bash
 
 #This program demonstrates how to create file/folder
